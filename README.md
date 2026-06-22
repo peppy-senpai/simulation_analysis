@@ -53,6 +53,3 @@ Or open any notebook:
 jupyter notebook
 ```
 
-## Authors
-
-Pradeep Kumar RP · Vamsinath Thatha
